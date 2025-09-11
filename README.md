@@ -1,16 +1,15 @@
-## Hi there 👋
+### **Hi there👋**
 
-<!--
-**kaleidocli/kaleidocli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate from **UC Irvine**. 
 
-Here are some ideas to get you started:
+I always welcome new challenges and have practical experience leading projects and contributing to open-source work, and committed to delivering excellent results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To me, challenges are not something to avoid. They are learning opportunities, regardless of the result.
+
+---
+
+### **Skills & Technologies**
+
+* **Languages**: Python, Java, C#, SQL
+* **Databases**: PostgreSQL, MySQL
+* **Tools**: Git, GitHub, Docker

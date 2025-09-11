@@ -10,6 +10,7 @@ To me, challenges are not something to avoid. They are learning opportunities, r
 
 ### **Skills & Technologies**
 
-* **Languages**: Python, Java, C#, SQL
-* **Databases**: PostgreSQL, MySQL
-* **Tools**: Git, GitHub, Docker
+* **Languages**: C#, Python, Java
+* **Frontend Development**: HTML, Tailwind CSS
+* **Database**: MySQL, PostgreSQL, SQLite, MongoDB
+* **Cloud and Tools**: Git, AWS, Docker, TensorFlow, Jupyter Lab, Eclipse, IntelliJ

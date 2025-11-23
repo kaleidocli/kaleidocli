@@ -10,7 +10,7 @@ To me, challenges are not something to avoid. They are learning opportunities, r
 
 ### **Skills & Technologies**
 
-* **Languages**: C#, Python, Java
-* **Frontend Development**: HTML, Tailwind CSS
-* **Database**: MySQL, PostgreSQL, SQLite, MongoDB
-* **Cloud and Tools**: Git, AWS, Docker, TensorFlow, Jupyter Lab, Eclipse, IntelliJ
+* **Languages:** C#, Python, Java
+* **Frontend / Database:** SQL, MySQL, PostgreSQL, SQLite, JDBC, HTML, CSS.
+* **Cloud and Tools:** Linux, Git, Docker, TensorFlow, pandas, numpy, scikit-learn
+* **Other:** Microsoft Office, Adobe Suite, Windows PowerShell, Visual Studio, IntelliJ, Eclipse, Jupyter Lab

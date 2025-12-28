@@ -11,6 +11,6 @@ To me, challenges are not something to avoid. They are learning opportunities, r
 ### **Skills & Technologies**
 
 * **Languages:** C#, Python, Java
-* **Frontend / Database:** SQL, MySQL, PostgreSQL, SQLite, JDBC, HTML, CSS.
+* **Backend:** MySQL, SQLite, Spring Boot, Hibernate 2
 * **Cloud and Tools:** Linux, Git, Docker, TensorFlow, pandas, numpy, scikit-learn
-* **Other:** Microsoft Office, Adobe Suite, Windows PowerShell, Visual Studio, IntelliJ, Eclipse, Jupyter Lab
+* **Other:** Microsoft Office, Adobe Suite, Windows PowerShell, Visual Studio, IntelliJ, Jupyter Lab
